@@ -1,15 +1,12 @@
 # 🚀 IoT-RL Congestion Optimizer  
 ### 🧠 AI-Powered Network Intelligence for Smart IoT Systems  
 
----
 
 ## 🌍 Vision  
 
 Transforming IoT networks into **self-optimizing intelligent systems** using Artificial Intelligence.  
 
 IoT-RL Congestion Optimizer leverages **Reinforcement Learning (DQN)** to dynamically manage network congestion, enabling **faster, smarter, and more energy-efficient communication**.
-
----
 
 ## 💡 Problem  
 
@@ -22,8 +19,6 @@ Traditional network protocols like TCP are:
 
 👉 Result: **High latency, packet loss, and network congestion**
 
----
-
 ## ⚡ Solution  
 
 An AI-driven congestion control platform that:
@@ -32,8 +27,6 @@ An AI-driven congestion control platform that:
 - ⚙️ Optimizes data flow dynamically  
 - 📉 Reduces latency and packet loss  
 - ⚡ Minimizes energy consumption  
-
----
 
 ## 📊 Key Results (Simulation)
 
@@ -82,11 +75,7 @@ An AI-driven congestion control platform that:
 
 </div>
 
----
-
-## 📸 Dashboard Preview  
-
-### 🖥️ KPI Dashboard  
+## 📸 Dashboard Preview    
 <div style="text-align:center; margin-top:20px;">
 
 <h3 style="color:#4CAF50;">🖥️ KPI Dashboard</h3>
@@ -119,8 +108,6 @@ Real-time AI-powered dashboard showing network performance metrics
 
 </div>
 
----
-
 ## 📊 Results Visualization  
 
 ### 🚀 Throughput
@@ -138,8 +125,6 @@ Real-time AI-powered dashboard showing network performance metrics
 ### 🧠 Learning Curve
 ![Learning Curve](./learning_curve.png)
 
----
-
 ## 🖥️ Product Features  
 
 - 📊 Real-time AI Dashboard  
@@ -148,6 +133,71 @@ Real-time AI-powered dashboard showing network performance metrics
 - 📡 IoT network simulation  
 - 📄 Export results (CSV + figures)  
 
+## 🏗️ Architecture  
+IoT Devices → Data Flow → RL Agent (DQN) → Decision Engine → Network Optimization → Dashboard
+
 ---
 
-## 🏗️ Architecture  
+## 🛠️ Tech Stack  
+
+- 🐍 Python 3.11  
+- 🧠 PyTorch  
+- 📊 Matplotlib  
+- ⚡ NumPy  
+- 🖥️ PyQt5  
+
+---
+
+## ▶️ Quick Start  
+
+```bash
+git clone https://github.com/your-username/iot-rl-congestion.git
+cd iot-rl-congestion
+
+python -m venv venv
+venv\Scripts\activate
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+pip install PyQt5 matplotlib numpy
+
+python main.py
+🎯 Use Cases
+🏙️ Smart Cities
+🚦 Intelligent Transport
+🏥 Healthcare IoT
+🏭 Industrial IoT
+🌐 Smart Networks
+🧠 Innovation
+
+✔️ AI-based congestion prediction
+✔️ Adaptive optimization
+✔️ Energy-aware communication
+✔️ Scalable architecture
+
+📈 Business Potential
+📡 Telecom optimization
+🌍 Smart infrastructure
+🧠 AI SaaS platform
+🚀 Cloud deployment
+👤 Founder
+
+Maloani Saidi Georges
+PhD Candidate in Computer Science
+CEO, MS Solutions Lab
+
+📧 georgesmaloanis@gmail.com
+
+🤝 Collaboration
+
+We are open to:
+
+🤝 Research collaborations
+💼 Industry partnerships
+💰 Investment opportunities
+⭐ Support
+
+If you like this project:
+
+👉 ⭐ Star
+👉 🔁 Share
+👉 💬 Contribute
