@@ -87,7 +87,37 @@ An AI-driven congestion control platform that:
 ## 📸 Dashboard Preview  
 
 ### 🖥️ KPI Dashboard  
-![Dashboard](./ui/dashboard.png)
+<div style="text-align:center; margin-top:20px;">
+
+<h3 style="color:#4CAF50;">🖥️ KPI Dashboard</h3>
+
+<div style="
+    display:inline-block;
+    background: linear-gradient(135deg, #1e1e2f, #2d2d44);
+    padding:15px;
+    border-radius:15px;
+    box-shadow: 0px 4px 20px rgba(0,0,0,0.5);
+">
+
+<img src="dash.JPG" 
+     alt="IoT AI Dashboard"
+     style="
+        width:100%;
+        max-width:800px;
+        border-radius:10px;
+        transition: transform 0.3s;
+     "
+     onmouseover="this.style.transform='scale(1.03)';"
+     onmouseout="this.style.transform='scale(1)';"
+/>
+
+</div>
+
+<p style="color:#aaa; margin-top:10px;">
+Real-time AI-powered dashboard showing network performance metrics
+</p>
+
+</div>
 
 ---
 
