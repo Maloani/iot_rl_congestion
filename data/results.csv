@@ -1,0 +1,3 @@
+method,throughput,latency,packet_loss,energy
+TCP,5.0,120,12,80
+RL,8.0,60,4,55
